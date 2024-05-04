@@ -1,14 +1,23 @@
-        
-        body {
+body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f7f7f7;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
             background-image: url(https://images.unsplash.com/photo-1461696114087-397271a7aedc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
             background-size: cover; 
+            background-repeat: no-repeat; 
+            background-position: center;
         }
         .todo-container {
             background-color: #fff;
             border-radius: 20px;
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            padding: 30px;
+            width: 700px;
+            text-align: center;
         }
 
         .todo-header {
@@ -16,5 +25,5 @@
             margin-bottom: 20px;
             color: #c82333;
             font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            font-weight: bold;
-        }
+            font-weight: bold;
+        }
