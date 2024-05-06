@@ -68,7 +68,7 @@ Organize your daily tasks with our simple and intuitive To-Do List application. 
 
 📝**Easy Task Entry:** Quickly add tasks by typing in the input field and hitting "Add Task."
 
-📝**Task Management:** Mark tasks as completed with a simple click, or delete tasks you no longer need.
+📝**Task Management:** Delete tasks you no longer need.
 
 📝**Clear Interface:** Enjoy a clutter-free interface designed for maximum efficiency.
 
