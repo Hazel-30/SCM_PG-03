@@ -52,7 +52,7 @@
 
 ✅ Prepare for project submission
 
-### [10-5-2024] - Completion
+### [06-5-2024] - Completion
 
 ✅ Complete final checks
 
