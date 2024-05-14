@@ -50,7 +50,7 @@
 
 ✅ Finalize documentation
 
-✅ Prepare for project submission
+✅ Preparation of project submission
 
 ### [06-5-2024] - Completion
 
@@ -58,7 +58,7 @@
 
 ✅ Release version 2.0
 
-✅ Submit project
+✅ Project Submission
 
 # Project Overview📋
 
